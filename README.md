@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Developer Usharani</h1>
 <h3 align="center">A passionate Developer in python</h3>
 
+<img align="right" width="400" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e473awqsqkjky0iiq39xt7kkww8gmitfljlxzdotrf0&rid=giphy.gif&ct=g">
+
 - 🔭 I’m currently working on **Python Data Science**
 
 - 🌱 I’m currently learning **Advance Analytical skills**
